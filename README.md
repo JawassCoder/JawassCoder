@@ -27,10 +27,4 @@
 
 ---
 
-### 📫 يمكنك التواصل معي عبر:
-- ✉️ البريد الإلكتروني: *ضع هنا بريدك الإلكتروني إن أحببت*  
-- 🧠 تابع رحلتي في GitHub: [JawassCoder](https://github.com/JawassCoder)
-
----
-
 > “Every great coder was once a beginner who didn’t give up.” 💪
